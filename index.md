@@ -1,4 +1,4 @@
-# Aox Linux -> [https://aoxlinux.xyz](https://aoxlinux.xyz)
+# -> [https://aoxlinux.xyz](https://aoxlinux.xyz)
 
 <p align="center">
     <a href="https://aoxlinux.xyz">
